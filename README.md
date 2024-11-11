@@ -11,15 +11,6 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 - 💬 Ask me anything about **C**, **algorithms**, or **software development**.
 
 ---
-### 🔧 My Tech Stack
-
-![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
-![C](https://img.shields.io/badge/-C-000000?&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?&logo=visualstudiocode&logoColor=white)
-
----
 
 ### 📈 GitHub Stats
 
@@ -27,18 +18,13 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 
 ---
 
+### 🔧 My Tech Stack
 
-### 🔭 Currently Working On
-
-- Developing more **advanced algorithms** in C.
-- Enhancing **C** projects with efficient memory management and performance optimization.
-
-
----
-
-### 📬 Connect with Me
-
-- [Twitter]([https://twitter.com/your-profile](https://x.com/El_adnanii))
+![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?&logo=visualstudiocode&logoColor=white)
 
 ---
 
