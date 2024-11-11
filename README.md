@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm **mel-adna**, a passionate C language programmer.  
+I'm **@mel-adna**, a passionate C language programmer.  
 I love coding and solving problems through efficient algorithms and data structures.
 
 - 🌱 I’m currently learning and improving my skills in **C** programming.
