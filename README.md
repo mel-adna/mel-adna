@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**mel-adna/mel-adna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **mel-adna**, a passionate C language programmer.  
+I love coding and solving problems through efficient algorithms and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and improving my skills in **C** programming.
+- 💬 Ask me about anything related to **C** or **software development**.
+- ⚡ Fun fact: I love debugging as much as I love coding!
+### 🔧 Tech Stack
+![C](https://img.shields.io/badge/-C-000000?&logo=c)
+![Linux](https://img.shields.io/badge/-Linux-000000?&logo=linux)
+![Git](https://img.shields.io/badge/-Git-000000?&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?&logo=visualstudiocode)
