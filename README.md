@@ -1,7 +1,10 @@
+<p align="center">
 # Hi there 👋, I'm mel-adna 👨‍💻
+</p>
 
+<p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mel-adna" alt="mel-adna's 42 stats" /></a>
-
+</p>
 ---
 
 A passionate C language programmer and a proud **1337 student**, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
