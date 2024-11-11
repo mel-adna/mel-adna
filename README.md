@@ -12,6 +12,12 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 
 ---
 
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel-adna&show_icons=true&theme=radical)
+
+---
+
 ### 🔧 My Tech Stack
 
 ![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
@@ -22,23 +28,11 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 
 ---
 
-### 📚 Projects
-
-- **[Libft](https://github.com/mel-adna/Libft)**: A custom implementation of standard library functions in C.
-- **[Algorithms and Data Structures](https://github.com/mel-adna/Algorithms-and-Data-Structures)**: A repository for practicing different algorithms and data structures.
-
----
-
 ### 🔭 Currently Working On
 
 - Developing more **advanced algorithms** in C.
 - Enhancing **C** projects with efficient memory management and performance optimization.
 
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel-adna&show_icons=true&theme=radical)
 
 ---
 
