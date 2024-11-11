@@ -1,6 +1,4 @@
-<p align="center">
-### Hi there 👋, I'm mel-adna 👨‍💻
-</p>
+<h1 align="center">Hi there 👋, I'm mel-adna 👨‍💻</h1>
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mel-adna" alt="mel-adna's 42 stats" /></a>
