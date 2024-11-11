@@ -4,7 +4,7 @@ A passionate **C language** programmer and a proud **1337 student**, continuousl
 
 ---
 
-![1337 School Logo](https://your-link-to-1337-logo.com)  <!-- Replace with actual logo URL -->
+![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
 
 ---
 
