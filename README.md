@@ -11,13 +11,6 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 - 💬 Ask me anything about **C**, **algorithms**, or **software development**.
 
 ---
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel-adna&show_icons=true&theme=radical)
-
----
-
 ### 🔧 My Tech Stack
 
 ![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
@@ -27,6 +20,13 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?&logo=visualstudiocode&logoColor=white)
 
 ---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel-adna&show_icons=true&theme=radical)
+
+---
+
 
 ### 🔭 Currently Working On
 
