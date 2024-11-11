@@ -1,5 +1,9 @@
 # Hi there 👋, I'm mel-adna 👨‍💻
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mel-adna" alt="mel-adna's 42 stats" /></a>
+
+---
+
 A passionate C language programmer and a proud **1337 student**, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
 
 ---
@@ -12,7 +16,6 @@ A passionate C language programmer and a proud **1337 student**, continuously le
 
 ---
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mel-adna" alt="mel-adna's 42 stats" /></a>
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel-adna&show_icons=true&theme=radical)
