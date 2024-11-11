@@ -1,12 +1,16 @@
 # Hi there 👋, I'm **mel-adna** 👨‍💻
 
-A passionate **C language** programmer, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
+A passionate **C language** programmer and a proud **1337 student**, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
+
+---
+
+![1337 School Logo](https://your-link-to-1337-logo.com)  <!-- Replace with actual logo URL -->
 
 ---
 
 ### 💻 About Me
 
-- 🌱 Currently learning and working on improving my skills in **C programming**.
+- 🌱 Currently learning and working on improving my skills in **C programming** as a **1337 student**.
 - ⚡ Fun fact: I love debugging as much as I love coding!
 - 💬 Ask me anything about **C**, **algorithms**, or **software development**.
 
@@ -43,9 +47,7 @@ A passionate **C language** programmer, continuously learning and improving my s
 
 ### 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio](https://your-portfolio-link.com)
+- [Twitter]([https://twitter.com/your-profile](https://x.com/El_adnanii))
 
 ---
 
