@@ -1,6 +1,6 @@
-# Hi there 👋, I'm **mel-adna** 👨‍💻
+# Hi there 👋, I'm mel-adna 👨‍💻
 
-A passionate **C language** programmer and a proud **1337 student**, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
+A passionate C language programmer and a proud **1337 student**, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
 
 ---
 
