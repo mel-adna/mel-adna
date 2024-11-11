@@ -4,10 +4,6 @@ A passionate **C language** programmer and a proud **1337 student**, continuousl
 
 ---
 
-![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
-
----
-
 ### 💻 About Me
 
 - 🌱 Currently learning and working on improving my skills in **C programming** as a **1337 student**.
@@ -18,6 +14,7 @@ A passionate **C language** programmer and a proud **1337 student**, continuousl
 
 ### 🔧 My Tech Stack
 
+![1337 Badge](https://img.shields.io/badge/1337%20School-000000?&logo=graduation-cap&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000000?&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?&logo=git&logoColor=white)
