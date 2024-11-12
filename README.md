@@ -3,7 +3,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mel-adna" alt="mel-adna's 42 stats" /></a>
 
-<picture>
+
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -13,7 +13,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 ---
 
 A passionate C language programmer and a proud **1337 student**, continuously learning and improving my skills. I love coding and solving problems through efficient algorithms and data structures.
