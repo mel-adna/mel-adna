@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm mel-adna 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/darkbinary/mel-adna" alt="mel-adna's 42 stats" />
+  <img src="https://img.shields.io/badge/1337%20student-proud-blue?style=for-the-badge" alt="1337 student" />
 </p>
 
 ---
