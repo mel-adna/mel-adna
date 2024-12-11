@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm mel-adna 👨‍💻</h1>
 
 <p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mel-adna" alt="mel-adna's 42 stats" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/42%20Network-Student-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Network Student" />
   <img src="https://img.shields.io/badge/C-Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
   <img src="https://img.shields.io/badge/Computer%20Science-In%20Progress-yellow?style=for-the-badge" alt="Computer Science" />
