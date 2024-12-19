@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm mel-adna 👨‍💻</h1>
+<h1 align="center">Hi there 👋, I'm Mohamed El Adnani 👨‍💻</h1>
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/mel-adna" />
