@@ -22,9 +22,11 @@ A passionate **C language programmer** and **Computer Science enthusiast**, thri
 
 ### 📫 How to Reach Me
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Adnani-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-adnani-184a48343/)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-el-adnani-184a48343/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Adnani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
