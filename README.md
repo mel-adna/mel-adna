@@ -12,16 +12,6 @@ A passionate **C language programmer** and **Computer Science enthusiast**, thri
 
 ---
 
-### 🖥️ My Setup
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
 ### 💻 Current Focus
 
 - 🔥 Mastering advanced **C programming** techniques.
@@ -33,6 +23,16 @@ A passionate **C language programmer** and **Computer Science enthusiast**, thri
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Adnani-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-adnani-184a48343/)
+
+---
+
+### 🖥️ My Setup
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
