@@ -12,14 +12,6 @@ A passionate **C language programmer** and **Computer Science enthusiast**, thri
 
 ---
 
-### 💻 Current Focus
-
-- 🔥 Mastering advanced **C programming** techniques.
-- 🛠️ Enhancing skills in **Linux** and **Algorithms**.
-- 🚀 Exploring the depths of **Systems Programming**.
-
----
-
 ### 🖥️ My Setup
 
 <p align="center">
@@ -27,6 +19,14 @@ A passionate **C language programmer** and **Computer Science enthusiast**, thri
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
+---
+
+### 💻 Current Focus
+
+- 🔥 Mastering advanced **C programming** techniques.
+- 🛠️ Enhancing skills in **Linux** and **Algorithms**.
+- 🚀 Exploring the depths of **Systems Programming**.
 
 ---
 
