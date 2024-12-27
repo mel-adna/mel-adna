@@ -30,4 +30,11 @@ A passionate **C language programmer** and **Computer Science enthusiast**, thri
 
 ---
 
+### 📫 How to Reach Me
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-el-adnani-184a48343/).
+
+---
+
 > "Innovation distinguishes between a leader and a follower." – Steve Jobs
+
