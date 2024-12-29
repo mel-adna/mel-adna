@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Mohamed El Adnani 👨‍💻</h1>
+<h1 align="center">
+  <span style="font-size: 2em; color: #ff6347;">Hi there 👋, I'm</span> <br />
+  <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; animation: glow 1s ease-in-out infinite alternate; color: #32cd32;">Mohamed El Adnani 👨‍💻</span>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/42%20Network-Student-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Network Student" />
