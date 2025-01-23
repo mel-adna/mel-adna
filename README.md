@@ -3,9 +3,8 @@
   <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; animation: glow 1s ease-in-out infinite alternate; color: #32cd32;">Mohamed El Adnani 👨‍💻</span>
 </h1>
 
-```markdown
-![Matrix Animation](matrix-animation.svg)
-```
+![matrix-animation](https://github.com/user-attachments/assets/dd58e977-9464-4c7d-b1c5-4008a22f1af0)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/42%20Network-Student-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Network Student" />
