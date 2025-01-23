@@ -9,8 +9,13 @@
   <img src="https://img.shields.io/badge/Computer%20Science-In%20Progress-yellow?style=for-the-badge" alt="Computer Science" />
 </p>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgNjAwIDIwMCI+CiAgPHJlY3Qgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiMwMDAiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzAwZmY0MSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSI+CiAgICBNb2hhbWVkIEVsIEFkbmFuaQogICAgPHRzcGFuIHg9IjUwJSIgZHk9IjIwIj5Db2RpbmcgdGhlIEZ1dHVyZTwvdHNwYW4+CiAgPC90ZXh0Pgo8L3N2Zz4=" alt="Matrix Animation" width="600" height="200"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" fill="#000"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#00ff41" font-family="monospace">
+    Mohamed El Adnani
+    <tspan x="50%" dy="20">Coding the Future</tspan>
+  </text>
+</svg>
 
 ---
 
