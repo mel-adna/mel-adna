@@ -9,13 +9,6 @@
   <img src="https://img.shields.io/badge/Computer%20Science-In%20Progress-yellow?style=for-the-badge" alt="Computer Science" />
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
-  <rect width="600" height="200" fill="#000"/>
-  <text x="50%" y="50%" text-anchor="middle" fill="#00ff41" font-family="monospace">
-    Mohamed El Adnani
-    <tspan x="50%" dy="20">Coding the Future</tspan>
-  </text>
-</svg>
 
 ---
 
