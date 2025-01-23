@@ -4,7 +4,7 @@
 </h1>
 
 ```markdown
-![Matrix Animation](https://github.com/mel-adna/assets/blob/6c9eb00c2e0a185e6780150f3049632afe842307/matrix-animation.svg)
+![Matrix Animation](matrix-animation.svg)
 ```
 
 <p align="center">
