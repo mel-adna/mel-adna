@@ -1,6 +1,6 @@
 <h1 align="center">
-  <span style="font-size: 2em;">Hello 👋, I'm</span> <br />
-  <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; color: #32cd32;">Mohamed El Adnani</span> 📱
+  <span style="font-size: 2em;">Hello, I'm</span> <br />
+  <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; color: #32cd32;">Mohamed El Adnani</span>
 </h1>
 
 <p align="center">
@@ -12,30 +12,30 @@
 
 ---
 
-🎯 **About Me**  
+**About Me**  
 I am a passionate **Mobile Developer** specializing in **Flutter** and **Dart**, currently studying at **1337 School** (42 Network).  
 My background in **C programming** and **cybersecurity** helps me build secure, scalable, and efficient mobile applications.  
-I love transforming ideas into **beautiful, high-performance apps** for Android & iOS.
+I focus on transforming ideas into **beautiful, high-performance apps** for Android and iOS.
 
-💡 **Interests:** Flutter • Mobile UI/UX • App Performance Optimization • Secure Mobile Development  
-
----
-
-### 🚀 Current Focus
-- **Building** cross-platform mobile apps with Flutter & Dart.  
-- **Mastering** responsive UI design and smooth animations.  
-- **Exploring** Firebase integration, push notifications & APIs.  
+**Interests:** Flutter • Mobile UI/UX • App Performance Optimization • Secure Mobile Development  
 
 ---
 
-### 📌 Featured Projects
-- **[Habit Buddy](#)** – Habit tracking & motivation app using Flutter + Firebase.  
-- **[Cub3D](#)** – 3D raycasting engine in C (low-level graphics experience).  
-- **[Philosophers](#)** – Multithreading & synchronization in C.  
+### Current Focus
+- Building cross-platform mobile apps with Flutter and Dart  
+- Mastering responsive UI design and smooth animations  
+- Exploring Firebase integration, push notifications, and APIs  
 
 ---
 
-### 📫 Connect With Me
+### Featured Projects
+- **[Habit Buddy](#)** – Habit tracking and motivation app using Flutter and Firebase  
+- **[Cub3D](#)** – 3D raycasting engine in C (low-level graphics experience)  
+- **[Philosophers](#)** – Multithreading and synchronization in C  
+
+---
+
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mel-adna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Adnani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,7 +44,7 @@ I love transforming ideas into **beautiful, high-performance apps** for Android 
 
 ---
 
-### 🛠 Tech & Tools
+### Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
