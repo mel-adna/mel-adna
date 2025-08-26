@@ -29,7 +29,7 @@ I focus on transforming ideas into **beautiful, high-performance apps** for Andr
 ---
 
 ### Featured Projects
-- **[Habit Buddy](#)** – Habit tracking and motivation app using Flutter and Firebase  
+- **[Hibly](#)** – Habit tracking and motivation app using Flutter and Firebase  (Coming soon)
 - **[Cub3D](#)** – 3D raycasting engine in C (low-level graphics experience)  
 - **[Philosophers](#)** – Multithreading and synchronization in C  
 
