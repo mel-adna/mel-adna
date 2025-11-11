@@ -29,7 +29,7 @@ I focus on transforming ideas into **beautiful, high-performance apps** for Andr
 ---
 
 ### Featured Projects
-- **[Hibly](#)** – Habit tracking and motivation app using Flutter and Firebase  (Coming soon)
+- **[Mood Music App](#)** –  Flutter app using facial emotion recognition AI to recommend Spotify playlists based on detected mood
 - **[Cub3D](#)** – 3D raycasting engine in C (low-level graphics experience)  
 - **[Philosophers](#)** – Multithreading and synchronization in C  
 
