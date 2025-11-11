@@ -12,7 +12,7 @@
 
 ---
 
-**About Me**  
+### 👨‍💻 About Me  
 I am a passionate **Mobile Developer** specializing in **Flutter** and **Dart**, currently studying at **1337 School** (42 Network).  
 My background in **C programming** and **cybersecurity** helps me build secure, scalable, and efficient mobile applications.  
 I focus on transforming ideas into **beautiful, high-performance apps** for Android and iOS.
@@ -21,21 +21,21 @@ I focus on transforming ideas into **beautiful, high-performance apps** for Andr
 
 ---
 
-### Current Focus
+### 🎯 Current Focus
 - Building cross-platform mobile apps with Flutter and Dart  
 - Mastering responsive UI design and smooth animations  
 - Exploring Firebase integration, push notifications, and APIs  
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 - **[Hibly](#)** – Habit tracking and motivation app using Flutter and Firebase  (Coming soon)
 - **[Cub3D](#)** – 3D raycasting engine in C (low-level graphics experience)  
 - **[Philosophers](#)** – Multithreading and synchronization in C  
 
 ---
 
-### Connect With Me
+### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mel-adna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Adnani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,7 +44,7 @@ I focus on transforming ideas into **beautiful, high-performance apps** for Andr
 
 ---
 
-### Tech & Tools
+### 🛠️ Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -52,6 +52,13 @@ I focus on transforming ideas into **beautiful, high-performance apps** for Andr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mel-adna&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
