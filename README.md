@@ -1,59 +1,54 @@
-<h1 align="center">
-  <span style="font-size: 2em;">Hello, I'm</span> <br />
-  <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; color: #32cd32;">Mohamed El Adnani</span>
-</h1>
+# Mohamed El Adnani
 
-<p align="center">
-  <img src="https://img.shields.io/badge/42%20Network-Student-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Network Student" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Mobile%20App%20Development-In%20Progress-green?style=for-the-badge" alt="Mobile Development" />
-</p>
+**Flutter developer — two apps live on the Apple App Store.**
+Martil, Morocco · Available for freelance and contract work · Open to relocation
+
+[LinkedIn](https://linkedin.com/in/mel-adna) · [Portfolio](https://mel-adna.github.io) · mohamedeladnani0@gmail.com
 
 ---
 
-**About Me**  
-I am a passionate **Mobile Developer** specializing in **Flutter** and **Dart**, currently studying at **1337 School** (42 Network).  
-My background in **C programming** and **cybersecurity** helps me build secure, scalable, and efficient mobile applications.  
-I focus on transforming ideas into **beautiful, high-performance apps** for Android and iOS.
+## Shipped
 
-**Interests:** Flutter • Mobile UI/UX • App Performance Optimization • Secure Mobile Development  
+**[Tomato — AI Pomodoro Timer](APP_STORE_LINK_HERE)** · Live on the App Store
+Focus and time-blocking app. Owned the full lifecycle: architecture, App Store review, release, and post-launch updates.
+Google Gemini generates coaching from the user's own session history. Background-resilient timers stay accurate while the app is suspended, using background task handling and OS-level notifications. Focus, break, and task transitions are modelled as explicit BLoC events, so timer logic is testable and decoupled from the UI.
+`Flutter` `BLoC` `Google Gemini API` `Background tasks`
 
----
-
-### Current Focus
-- Building cross-platform mobile apps with Flutter and Dart  
-- Mastering responsive UI design and smooth animations  
-- Exploring Firebase integration, push notifications, and APIs  
+**[SealX Manager](APP_STORE_LINK_HERE)** · Live on the App Store
+Privacy-first local media manager and offline video player for iOS. All media stays inside the app sandbox — nothing is uploaded. Tuned player buffering and cache sizing to keep high-bitrate local playback smooth without dropped frames. Shipped bundle optimised to 26 MB.
+`Flutter` `MVVM` `Riverpod` `Video pipeline`
 
 ---
 
-### Featured Projects
-- **[Mood Music App](#)** –  Flutter app using facial emotion recognition AI to recommend Spotify playlists based on detected mood
-- **[Cub3D](#)** – 3D raycasting engine in C (low-level graphics experience)  
-- **[Philosophers](#)** – Multithreading and synchronization in C  
+## Selected work
+
+**[FatigueVision](REPO_LINK)** — Real-time driver drowsiness detection running fully on-device. Computes eye aspect ratio from ML Kit face mesh landmarks to trigger immediate audio and haptic alerts.
+`Flutter` `Google ML Kit` `DDD`
+
+**[Offline-First Task Manager](REPO_LINK)** — Fully usable with no connectivity. Local SQLite schema with indexed queries; local notifications survive device reboots.
+`Flutter` `SQLite` `BLoC`
+
+**[E-Commerce Platform](REPO_LINK)** — Cross-platform retail app. Firebase auth and Firestore order storage, with data sources behind repository interfaces so the data layer can be mocked in tests.
+`Flutter` `Firebase` `Clean Architecture`
 
 ---
 
-### Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mel-adna/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Adnani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## How I build
+
+Clean Architecture with BLoC or Riverpod. Offline-first by default — local SQLite persistence synchronised with REST and Firebase — so applications stay usable when the network does not. Data sources sit behind repository interfaces to keep the domain layer testable.
+
+**Mobile** Flutter · Dart · iOS · Android · App Store Connect · Google Play Console
+**Architecture** Clean Architecture · MVVM · Repository Pattern · SOLID · Offline-First
+**State** BLoC · Riverpod · Provider
+**Backend & Data** Firebase (Auth, Firestore, Storage, FCM) · REST APIs · SQLite · Hive · PostgreSQL · Node.js
+**Also** C · C++ · TypeScript · React · Git · Docker
 
 ---
 
-### Tech & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+## Background
+
+Computer science at **1337 Coding School (42 Network)**, 2024–2026 — a project-based, peer-reviewed curriculum in C, C++, systems programming, algorithms, networking, and Unix.
 
 ---
 
-> _"Great apps are built when code meets creativity."_
+**Available for Flutter contract work.** Registered as an independent contractor in Morocco (auto-entrepreneur), invoicing international clients. Reach me at mohamedeladnani0@gmail.com.
