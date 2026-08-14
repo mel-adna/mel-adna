@@ -9,12 +9,12 @@ Martil, Morocco · Available for freelance and contract work · Open to relocati
 
 ## Shipped
 
-**[Tomato — AI Pomodoro Timer](APP_STORE_LINK_HERE)** · Live on the App Store
+**[Tomato — AI Pomodoro Timer](https://apps.apple.com/us/app/tomato-ai-pomodoro-timer/id6760948116)** · Live on the App Store
 Focus and time-blocking app. Owned the full lifecycle: architecture, App Store review, release, and post-launch updates.
 Google Gemini generates coaching from the user's own session history. Background-resilient timers stay accurate while the app is suspended, using background task handling and OS-level notifications. Focus, break, and task transitions are modelled as explicit BLoC events, so timer logic is testable and decoupled from the UI.
 `Flutter` `BLoC` `Google Gemini API` `Background tasks`
 
-**[SealX Manager](APP_STORE_LINK_HERE)** · Live on the App Store
+**[SealX Manager](https://apps.apple.com/us/app/sealx-manager/id6760955423)** · Live on the App Store
 Privacy-first local media manager and offline video player for iOS. All media stays inside the app sandbox — nothing is uploaded. Tuned player buffering and cache sizing to keep high-bitrate local playback smooth without dropped frames. Shipped bundle optimised to 26 MB.
 `Flutter` `MVVM` `Riverpod` `Video pipeline`
 
